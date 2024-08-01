@@ -1,104 +1,124 @@
-Todo React App
+# Todo React App
+
 A simple and intuitive To-Do List application built with React. This app allows users to manage their tasks efficiently by adding, deleting, and marking tasks as completed.
 
-->Table of Contents
+## Table of Contents
 
-->Project Overview
-->Features
-->Demo
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Demo](#demo)
+- [Installation Instructions](#installation-instructions)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Configuration](#configuration)
+- [License](#license)
+- [Contact](#contact)
 
-Installation Instructions
+## Project Overview
 
-->Usage
-->Contributing
-->Testing
-->Deployment
-->Configuration
-->License
-->Contact
-
-Project Overview
 This project is a React-based To-Do List application. It helps users keep track of their tasks and organize their day effectively. The app is designed to be simple and user-friendly, focusing on providing core functionality without unnecessary complexity.
 
-Features
+## Features
 
-->Add new tasks
-->Delete existing tasks
-->Mark tasks as completed
-->View tasks as a list
-->Responsive design for mobile and desktop
-Demo-> https://arvind621.github.io/todo-react-app
+- Add new tasks
+- Delete existing tasks
+- Mark tasks as completed
+- View tasks as a list
+- Responsive design for mobile and desktop
 
-Installation Instructions
+## Demo
+
+You can view a live demo of the application [here](https://arvind621.github.io/todo-react-app).
+
+## Installation Instructions
+
 To set up the project locally, follow these steps:
 
-1.Clone the repository:
--> git clone https://github.com/yourusername/todo-react-app.git
+1. **Clone the repository:**
 
-2.Navigate to the project directory:
--> cd todo-react-app
+    ```bash
+    git clone https://github.com/yourusername/todo-react-app.git
+    ```
 
-3.Install dependencies:
-Make sure you have Node.js installed. Then, run:
-npm install
+2. **Navigate to the project directory:**
 
+    ```bash
+    cd todo-react-app
+    ```
 
-Usage
+3. **Install dependencies:**
+
+    Make sure you have [Node.js](https://nodejs.org/) installed. Then, run:
+
+    ```bash
+    npm install
+    ```
+
+## Usage
+
 To start the development server and run the app locally:
 
-Start the development server:
-1.npm start
-2.Open your browser and go to http://localhost:3000 to see the app in action.
+1. **Start the development server:**
 
-Contributing
+    ```bash
+    npm start
+    ```
+
+2. Open your browser and go to `http://localhost:3000` to see the app in action.
+
+## Contributing
+
 Contributions are welcome! To contribute to this project:
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them with clear messages.
-Push your branch to your forked repository.
-Open a pull request with a detailed description of your changes.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with clear messages.
+4. Push your branch to your forked repository.
+5. Open a pull request with a detailed description of your changes.
 
-bash
-Copy code
-npm start
-Open your browser and go to http://localhost:3000 to see the app in action.
+Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
 
-Contributing
-Contributions are welcome! To contribute to this project:
+## Testing
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them with clear messages.
-Push your branch to your forked repository.
-Open a pull request with a detailed description of your changes.
-Please refer to the CONTRIBUTING.md file for more details.
-
-Testing:
 To run tests for the project:
 
-1.Run the test suite:
-npm test
-2.Follow the prompts to run tests and view results.
+1. **Run the test suite:**
 
-Deployment:
+    ```bash
+    npm test
+    ```
+
+2. Follow the prompts to run tests and view results.
+
+## Deployment
+
 To deploy the application:
 
-1.Build the project:
-npm run build
-2.Deploy the contents of the build directory to your hosting service.
+1. **Build the project:**
 
-Configuration
-You can configure the following settings in src/config.js:
+    ```bash
+    npm run build
+    ```
 
-API_URL: Base URL for any external APIs if used.
-THEME_COLOR: Primary color of the app's theme.
+2. Deploy the contents of the `build` directory to your hosting service.
 
-License
-This project is licensed under the MIT License.
+## Configuration
 
-Contact
+You can configure the following settings in `src/config.js`:
+
+- `API_URL`: Base URL for any external APIs if used.
+- `THEME_COLOR`: Primary color of the app's theme.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
 For any questions or feedback, you can reach out to:
 
-Arvind: arvindvemula519@gmail.com
-GitHub Profile: arvind621
+- **Arvind**: [arvind621@gmail.com](mailto:arvind621@gmail.com)
+- **GitHub Profile**: [arvind621](https://github.com/arvind621)
+
