@@ -119,6 +119,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or feedback, you can reach out to:
 
-- **Arvind**: [arvind621@gmail.com](mailto:arvindvemula519@gmail.com)
+- **Arvind**: [arvind519@gmail.com](mailto:arvindvemula519@gmail.com)
 - **GitHub Profile**: [arvind621](https://github.com/arvind621)
 
